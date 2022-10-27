@@ -1,0 +1,15 @@
+/Users/elenaberheci/Desktop/C#-hw/bin/Debug/net6.0/C#-hw
+/Users/elenaberheci/Desktop/C#-hw/bin/Debug/net6.0/C#-hw.deps.json
+/Users/elenaberheci/Desktop/C#-hw/bin/Debug/net6.0/C#-hw.runtimeconfig.json
+/Users/elenaberheci/Desktop/C#-hw/bin/Debug/net6.0/C#-hw.dll
+/Users/elenaberheci/Desktop/C#-hw/bin/Debug/net6.0/C#-hw.pdb
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.csproj.AssemblyReference.cache
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.AssemblyInfoInputs.cache
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.AssemblyInfo.cs
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.csproj.CoreCompileInputs.cache
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.dll
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/refint/C#-hw.dll
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.pdb
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/C#-hw.genruntimeconfig.cache
+/Users/elenaberheci/Desktop/C#-hw/obj/Debug/net6.0/ref/C#-hw.dll
